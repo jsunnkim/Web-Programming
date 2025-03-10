@@ -6,7 +6,8 @@ This is a personal website built using Vue 3. It includes:
 ## Setup Instructions
 1. git clone <repo-url>
 2. npm install
-3. npm run dev
+3. npm install naive-ui
+4. npm run dev
 
 ## Features
 - Uses Vue 3 features (`ref()`, `computed()`, `watch()`)
